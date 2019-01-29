@@ -40,7 +40,7 @@
             "src/chalice-javascript-sdk/lib/apiGatewayCore/simpleHttpClient.js",
             "src/chalice-javascript-sdk/lib/apiGatewayCore/utils.js",
             "src/chalice-javascript-sdk/apigClient.js",
-            "src/chalice-javascript-sdk/test.js"]
+            "src/test.js"]
           },
           "configurations": {
             "production": {
