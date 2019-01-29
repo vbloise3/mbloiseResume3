@@ -11,6 +11,11 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "target": "es5",
+    "types": [
+      // add node as an option
+      "node",
+      "webpack-env"
+    ],
     "typeRoots": [
       "node_modules/@types"
     ],
