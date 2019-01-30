@@ -1,30 +1,10 @@
-import { Component, OnInit } from '@angular/core';
-import { DataService } from './data.service';
-import {Observable} from 'rxjs';
-
-declare function test(): any;
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
-  rootStuff: Object;
-  title = 'mbloiseResume3Ui';
-  constructor(private data: DataService) { }
-
-  ngOnInit() {
-    test();
-    this.data.getRootInfo().subscribe(data => {
-        this.rootStuff = data;
-        console.log(this.rootStuff);
-      }
-    );
-    this.data.getRootInfoWithParams('yo', 'dude').subscribe(data => {
-        this.rootStuff = data;
-        console.log(this.rootStuff);
-      }
-    );
-  }
+export class AppComponent {
+  title = 'app';
 }

@@ -1,0 +1,202 @@
+
+<div fxLayout="row wrap">
+  <mat-sidenav-container fxFlex [class.m2app-dark]="isDarkTheme">
+
+
+    <mat-sidenav #sidenav mode="side" class="app-sidenav mat-elevation-z15" style="border-right-style: none;">
+        <table>
+            <tr>
+                <div *ngIf="_router.url == '/'"><td><span class="smallTextBottom"><a [routerLink]="['/1']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">description</i>My Resume</a></span></td></div>
+                <div *ngIf="_router.url != '/'"><td><span class="smallTextBottom"><a [routerLink]="['/']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">description</i>My Resume</a></span></td></div>
+            </tr>
+            <tr>
+                <div *ngIf="_router.url == '/personalInterests'"><td><span class="smallTextBottom"><a [routerLink]="['/2']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">directions_bike</i>Personal Interests</a></span></td></div>
+                <div *ngIf="_router.url != '/personalInterests'"><td><span class="smallTextBottom"><a [routerLink]="['/personalInterests']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">directions_bike</i>Personal Interests</a></span></td></div>
+            </tr>
+        </table>
+    </mat-sidenav>
+
+
+    <mat-toolbar color="primary" style="height: 4em;">
+        <button class="app-icon-button" (click)="sidenav.toggle()">
+            <i class="material-icons app-toolbar-menu">menu</i>
+        </button>
+
+        <img class="mdCardImg md-card-sm-image transparentProfilePic">
+
+        <span class="textBottom xxLargerFont">&nbsp;Marin Bloise</span>
+
+        <span class="app-toolbar-filler"></span>
+        <span class="smallTextBottom"><i class="material-icons md-18 iconBottom">home</i>&nbsp;261 Swedesford Rd., Malvern, PA 19355&nbsp;<a href="tel:610-308-1130" style="color: white"><i class="material-icons md-18 iconBottom">phone_iphone</i>610-308-1130</a>
+            &nbsp;<a href="mailto:meb339@scarletmail.rutgers.edu?Subject=Resume" target="_top" style="color: white"><i class="material-icons md-18 iconBottom">email</i><span style="font-size: xx-small">meb339@scarletmail.rutgers.edu</span></a></span>
+        <!--button md-button (click)="isDarkTheme = !isDarkTheme">TOGGLE DARK THEME</button-->
+    </mat-toolbar>
+
+    <div class="app-content">
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Objective</h1>
+            <ul>
+                <li class="bullet11">Seeking an internship with a leading communications institution that provides the opportunity to expand my knowledge as a communications major.
+                    My marketing experience and my strong communication skills ensure that I will make a positive contribution to your organization.
+                </li>
+            </ul>
+        </mat-card>
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Profile</h1>
+            <ul>
+                <li class="bullet11">NCAA Division I student-athlete majoring in Communication and minoring in DCIM</li>
+                <li class="bullet11">High School track team captain for three years; Varsity athlete for 6 years</li>
+                <li class="bullet11">Received Academic Honors in both junior and senior years in high school</li>
+                <li class="bullet11">Technical: Microsoft Office, Excel, PowerPoint, Slack, Wordpress, Piktochart, Voxer</li>
+                <li class="bullet11">Personal: Highly coachable; proven ability to lead; driven to go beyond what is expected in order to be suiccessful; the ultimate team player</li>
+            </ul>
+        </mat-card>
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Skills</h1>
+            <ul>
+                <li class="bullet11">Strong written and verbal communication skills with experience in sales.  Confident and skilled in presenting material to large audiences in academic and professional settings.
+                    Strong ability in relating to others and accommodating to any situation. Excellent time management skills learned from being a student-athlete.
+                </li>
+            </ul>
+        </mat-card>
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Education</h1>
+            <mat-card class="shadowCard">
+                <table>
+                    <tr>
+                        <td style="width: 800px;"><i class="material-icons md-18 iconNearBottom">date_range</i>&nbsp;<span class="bigPositionHeader">Class of 2019 (Junior)</span></td>
+                        <td style="width: 800px;"><i class="material-icons md-18 iconNearBottom">school</i>&nbsp;<span class="bigPositionHeader">Rutgers University</span></td>
+                        <td style="width: 800px;"><i class="material-icons md-18 iconNearBottom">location_on</i>&nbsp;<span class="bigPositionHeader">New Brunswick, NJ</span></td>
+                    </tr>
+                </table>
+                <table>
+                    <tr>
+                        <td style="width: 800px;"><i class="h1Italics"><i class="material-icons md-18 iconPositionHeader">work</i>Rutgers School of Communication and Information</i></td>
+                        <td style="width: 800px;"><i class="h1Italics"><i class="material-icons md-18 iconPositionHeader">assignment_ind</i> Major: Communication; Specialization: Strategic Communication/PR; Minor: DCIM</i></td>
+                    </tr>
+                </table>
+                <ul>
+                    <li class="bullet11">
+                        Related coursework: intro to communication and information, expository writing, public speaking, intro to media, information technology and information, social informatics, communication theory, structure of information, principles of public relations
+                    </li>
+                    <li class="bullet11">
+                        Current coursework: organizational communication, communication in relationships, virtual team dynamics, strategic presentation, writing for media
+                    </li>
+                </ul>
+            </mat-card>
+        </mat-card>
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Work Experience</h1>
+
+            <mat-card class="shadowCard">
+                <table>
+                    <tr>
+                        <td style="width:300px;"><i class="material-icons md-18 iconNearBottom">date_range</i>&nbsp;<span class="bigPositionHeader">Summer 2015</span></td>
+                        <td style="width:800px;"><i class="material-icons md-18 iconNearBottom">location_city</i>&nbsp;<span class="bigPositionHeader">Cutco Cutlery and Vector Marketing</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_on</i>&nbsp;<span class="bigPositionHeader">Newtown Square, PA</span></td>
+                    </tr>
+                </table>
+                <h2 class="h1Italics"><i class="material-icons md-18 iconPositionHeader">work</i>Marketing Associate</h2>
+                <ul>
+                    <li class="bullet11">
+                        Direct marketing associate to clients in the Delaware Country region
+                    </li>
+                    <li class="bullet11">
+                        Sold cutlery products to clients directly in their homes per appointment basis
+                    </li>
+                    <li class="bullet11">
+                        Proactively communicated with clients to maintain their satisfaction
+                    </li>
+                    <li class="bullet11">
+                        Learned communication skills as well as organizational skills
+                    </li>
+                    <li class="bullet11">
+                        Received the $500 Club Award for reaching a sales report of $770 at the mid-week mark of 7-20-15
+                    </li>
+                    <li class="bullet11">
+                        Received the $1000 Club Award for reaching a sales report of $1,008 during the week ending on 7-13-15
+                    </li>
+                </ul>
+            </mat-card>
+
+            <mat-card class="shadowCard">
+                <table>
+                    <tr>
+                        <td style="width:300px;"><i class="material-icons md-18 iconNearBottom">date_range</i>&nbsp;<span class="bigPositionHeader">Summer 2016</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_city</i>&nbsp;<span class="bigPositionHeader">ESF Summer Camps</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_on</i>&nbsp;<span class="bigPositionHeader">Montgomery School, PA</span></td>
+                    </tr>
+                </table>
+                <h2 class="h1Italics"><i class="material-icons md-18 iconPositionHeader">work</i>Sports Camp Counselor</h2>
+                <ul>
+                    <li class="bullet11">
+                        Coached and mentored children from the ages of 6-8 in sports for 10 weeks fulltime
+                    </li>
+                    <li class="bullet11">
+                        Exhibited leadership and quick learning skills by accommodating to the needs of young children under stressful circumstances
+                    </li>
+                    <li class="bullet11">
+                        Demonstrated ability to maintain focus and composure when dealing with moments of stress
+                    </li>
+                    <li class="bullet11">
+                        Exhibited interpersonal skills resulting in keeping young children in a controlled, safe, and fun environment
+                    </li>
+                </ul>
+            </mat-card>
+        </mat-card>
+
+        <mat-card class="shadowCard">
+            <h1 class="h1Blue">Activities</h1>
+            <mat-card class="shadowCard">
+                <table>
+                    <tr>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">date_range</i>&nbsp;<span class="bigPositionHeader">Fall 2015 - Present</span></td>
+                        <td style="width:900px;"><i class="material-icons md-18 iconNearBottom">location_city</i>&nbsp;<span class="bigPositionHeader" style="font-size: large;">Rutgers Women’s Swimming and Diving Team</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_on</i>&nbsp;<span class="bigPositionHeader">New Brunswick, NJ</span></td>
+                    </tr>
+                </table>
+                <h2 class="h1Italics"><i class="material-icons md-18 iconPositionHeader">pool</i>NCAA Division I Student-Athlete (Diving)</h2>
+                <ul>
+                    <li class="bullet11">
+                        Dedicate 30+ hours a week to practice, training, competition, meetings, etc.
+                    </li>
+                    <li class="bullet11">
+                        Have learned to manage my time through juxtaposing a demanding academic schedule with a demanding athletics program where I travel around the country for frequent Big 10 Conference meets
+                    </li>
+                    <li class="bullet11">
+                        Have established a great team work ethic and perseverance
+                    </li>
+                </ul>
+            </mat-card>
+
+            <mat-card class="shadowCard">
+                <table>
+                    <tr>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">date_range</i>&nbsp;<span class="bigPositionHeader">Summer 2010 - Present</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_city</i>&nbsp;<span class="bigPositionHeader">Community Service Projects</span></td>
+                        <td style="width:600px;"><i class="material-icons md-18 iconNearBottom">location_on</i>&nbsp;<span class="bigPositionHeader">Chester, NJ | New Brunswick, NJ</span></td>
+                    </tr>
+                </table>
+                <h2 class="h1Italics"><i class="material-icons md-18 iconPositionHeader">directions_run</i>Volunteer</h2>
+                <ul>
+                    <li class="bullet11">
+                        Grace Day Bible Camp: Summers 2010-2011, An assistant camp counselor for youth campers in the 8-12 age group
+                    </li>
+                    <li class="bullet11">
+                        Rutgers University: Spring 2016, Beach cleanup with the RU Women’s Swimming and Diving Team
+                    </li>
+                </ul>
+            </mat-card>
+        </mat-card>
+
+    </div>
+    <span class="app-action buttonPositionTop" [class.m2app-dark]="isDarkTheme">
+        <button mat-fab style="background-color:#ffcc00;" (click)="openDialog()"><mat-icon class="material-icons md-18 iconWhite">mail outline</mat-icon></button>
+    </span>
+</mat-sidenav-container>
+</div>
