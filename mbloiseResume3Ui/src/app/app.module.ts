@@ -13,7 +13,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import {MatButtonModule, MatCardModule, MatDialogModule, MatSnackBarModule, MatIconModule} from '@angular/material';
 import { MatSidenavModule, MatToolbarModule } from '@angular/material';
 import {Material2AppAppComponent, DialogContent} from './app.component/app.component';
-import {PersonalInterestsComponent, DialogContent2} from './personal-interests/personal-interests.component';
+import {PersonalInterestsComponent, DialogContent2} from './personalInterests.component/personalInterests.component';
 import { YoMoFoComponent } from './yo-mo-fo/yo-mo-fo.component';
 import { AppComponent } from './appComponent/appComponent';
 import { FlexLayoutModule } from '@angular/flex-layout';

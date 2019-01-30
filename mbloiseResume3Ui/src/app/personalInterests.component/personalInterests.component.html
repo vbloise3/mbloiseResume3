@@ -1,0 +1,124 @@
+<div fxLayout="row wrap">
+  <mat-sidenav-container fxFlex [class.m2app-dark]="isDarkTheme">
+
+      <mat-sidenav #sidenav mode="side" class="app-sidenav mat-elevation-z15" style="border-right-style: none;">
+          <table>
+              <tr>
+                  <div *ngIf="_router.url == '/'"><td><span class="smallTextBottom"><a [routerLink]="['/1']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">description</i>My Resume</a></span></td></div>
+                  <div *ngIf="_router.url != '/'"><td><span class="smallTextBottom"><a [routerLink]="['/']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">description</i>My Resume</a></span></td></div>
+              </tr>
+              <tr>
+                  <div *ngIf="_router.url == '/personalInterests'"><td><span class="smallTextBottom"><a [routerLink]="['/2']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">directions_bike</i>Personal Interests</a></span></td></div>
+                  <div *ngIf="_router.url != '/personalInterests'"><td><span class="smallTextBottom"><a [routerLink]="['/personalInterests']" target="_top" style="color: blue"><i class="material-icons md-18 iconBottom">directions_bike</i>Personal Interests</a></span></td></div>
+              </tr>
+          </table>
+      </mat-sidenav>
+
+      <mat-toolbar color="primary" style="height: 4em;">
+          <button class="app-icon-button" (click)="sidenav.toggle()">
+              <i class="material-icons app-toolbar-menu">menu</i>
+          </button>
+
+          <img class="mdCardImg md-card-sm-image transparentProfilePic">
+
+          <span class="textBottom xxLargerFont">&nbsp;Marin Bloise</span>
+
+          <span class="app-toolbar-filler"></span>
+          <span class="smallTextBottom"><i class="material-icons md-18 iconBottom">home</i>&nbsp;261 Swedesford Rd., Malvern, PA 19355&nbsp;<a href="tel:610-308-1130" style="color: white"><i class="material-icons md-18 iconBottom">phone_iphone</i>610-308-1130</a>
+              &nbsp;<a href="mailto:meb339@scarletmail.rutgers.edu?Subject=Resume" target="_top" style="color: white"><i class="material-icons md-18 iconBottom">email</i><span style="font-size: xx-small">meb339@scarletmail.rutgers.edu</span></a></span>
+          <!--button md-button (click)="isDarkTheme = !isDarkTheme">TOGGLE DARK THEME</button-->
+      </mat-toolbar>
+
+      <div class="app-content">
+
+          <mat-card class="shadowCard">
+              <table>
+                  <tr>
+                      <td><i class="material-icons md-18 iconNearBottom">pool</i><span class="bigPositionHeader h1Blue">Sports &mdash; I really enjoy sports! I'm an NCAA Division 1 athlete for Rutgers University in the B1G Conference</span></td>
+                  </tr>
+              </table>
+
+                  <!--ul>
+                      <li class="bullet11">Some of my favorite sports activities</li>
+                      |
+                      <li style="list-style: none;">
+                          <ul-->
+                              <mat-card class="shadowCard">
+                              <!--li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Gravity%27s_Rainbow"> <img class="mdCardImgInLineBottom md-card-sm-image" src="app/personalInterests.component/GravitysRainbow.png">Diving</a-->
+                              <li style="padding-bottom: 1em;list-style: none;" class="bullet11"><img class="mdCardImgInLineBottom md-card-sm-image marinDivingForResumePic"><span style="font-size: xx-large;">Diving</span>
+                                  <ul>
+                                      <li style="list-style: none;"><iframe src="https://player.vimeo.com/video/199844747" width="240" height="427" style="padding-top: 2em;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><img class="mdCardImgInLineBottom md-card-sm-image marinAtMDCPic" style="width:512px;height:342px;"></li>
+                                      <!--p><a href="https://vimeo.com/199844747">@ Penn State - 1/13/2017</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p-->
+                                      <!--li style="list-style: none;"><img class="mdCardImgInLineBottom md-card-sm-image" style="width:640px;height:427px;" src="app/personalInterests.component/MarinAtMDC.jpg"></li-->
+                                  </ul>
+                              </li>
+                              </mat-card>
+                              <mat-card class="shadowCard">
+                              <!--li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Underworld_(DeLillo_novel)"> <img class="mdCardImgInLineBottom md-card-sm-image" src="./Underworld.png">Underworld, Don DeLillo</a-->
+                                  <li style="padding-bottom: 1em;list-style: none;" class="bullet11"><img class="mdCardImgInLineBottom md-card-sm-image trackForResumePic"><span style="font-size: xx-large;">Track and Field</span>
+                                  <ul>
+                                      <li style="list-style: none;"><iframe src="https://player.vimeo.com/video/126726386" width="640" height="360" style="padding-top: 2em;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><img class="mdCardImgInLineBottom md-card-sm-image springside300MeterHurdlesPic" style="width:512px;height:342px;" ></li>
+                                      <!--p><a href="https://vimeo.com/126726386">Delco Championships  - 2015 - 300 Meter Hurdles</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p-->
+                                  </ul>
+                              </li>
+                              </mat-card>
+                              <mat-card class="shadowCard">
+                                  <li style="padding-bottom: 1em;list-style: none;" class="bullet11"><img class="mdCardImgInLineBottom md-card-sm-image aISSoccerPic" style="width:66px;height:48px;"><span style="font-size: xx-large;">Soccer</span>
+                                  <ul>
+                                      <li style="list-style: none;"><img class="mdCardImgInLineBottom md-card-sm-image marinAISSoccerPic" style="width:720px;height:629px;"></li>
+                                      <!--p><a href="https://vimeo.com/126726386">Delco Championships  - 2015 - 300 Meter Hurdles</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p-->
+                                  </ul>
+                              </li>
+                              </mat-card>
+                              <mat-card class="shadowCard">
+                                  <li style="padding-bottom: 1em;list-style: none;" class="bullet11"><img class="mdCardImgInLineBottom md-card-sm-image hunterJumperPic" style="width:68px;height:47px;"><span style="font-size: xx-large;">Hunter Jumper Horse Riding</span>
+                                  <ul>
+                                      <li style="list-style: none;"><img class="mdCardImgInLineBottom md-card-sm-image marinHorseJumpingPic" style="width:665px;height:885px;"></li>
+                                      <!--p><a href="https://vimeo.com/126726386">Delco Championships  - 2015 - 300 Meter Hurdles</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p-->
+                                  </ul>
+                              </li>
+                              </mat-card>
+                              <mat-card class="shadowCard">
+                                  <li style="padding-bottom: 1em;list-style: none;" class="bullet11"><img class="mdCardImgInLineBottom md-card-sm-image fieldGoalPic" style="width:68px;height:47px;"><span style="font-size: xx-large;">And yes, even football!</span>
+                                  <ul>
+                                      <li style="list-style: none;"><iframe src="https://player.vimeo.com/video/64966353" width="640" height="360" style="padding-top: 2em;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                          <!--p><a href="https://vimeo.com/64966353">Aussie Football Field Goal</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p>--</li>
+                                      <!--p><a href="https://vimeo.com/126726386">Delco Championships  - 2015 - 300 Meter Hurdles</a> from <a href="https://vimeo.com/user2689631">Vincent Bloise</a> on <a href="https://vimeo.com">Vimeo</a>.</p-->
+                                  </ul>
+                              </li>
+                              </mat-card>
+                          <!--/ul>
+                      </li-->
+                      <!--li class="bullet11"><a href="https://www.goodreads.com/user/show/36648383-vincent-bloise"><img class="mdCardImgInLineBottom md-card-sm-image" src="./GoodReads.png">goodreads</a> </li-->
+                  <!--/ul-->
+
+          </mat-card>
+
+          <mat-card class="shadowCard">
+              <table>
+                  <tr>
+                      <td><i class="material-icons md-18 iconNearBottom">directions_bike</i><span class="bigPositionHeader h1Blue">I also love board sports, skiing, and biking</span></td>
+                  </tr>
+              </table>
+              <mat-card class="shadowCard">
+                  <ul>
+                      <li class="bullet11">Some of my favorite recreational activities</li>
+                      <li style="list-style: none;">
+                          <ul>
+                              <li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Longboarding"> <img style="width:275px;height:183px;" class="mdCardImgInLineBottom md-card-sm-image longboardingPic">Longboarding</a></li>
+                              <li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Paddleboarding"> <img style="width:275px;height:183px;" class="mdCardImgInLineBottom md-card-sm-image paddleboardingPic">Paddleboarding</a></li>
+                              <li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Skiing"> <img style="width:275px;height:183px;" class="mdCardImgInLineBottom md-card-sm-image skiingPic">Skiing real fast!</a></li>
+                              <li style="padding-bottom: 1em;" class="bullet11"><a href="https://en.wikipedia.org/wiki/Mountain_biking"> <img style="width:275px;height:183px;" class="mdCardImgInLineBottom md-card-sm-image mountainBikingPic">Mountain Biking</a></li>
+                          </ul>
+                      </li>
+                  </ul>
+              </mat-card>
+          </mat-card>
+
+      </div>
+
+    <span class="app-action buttonPositionTop" [class.m2app-dark]="isDarkTheme">
+      <button mat-fab style="background-color:#ffcc00;" (click)="openDialog()"><mat-icon class="material-icons md-18 iconWhite">mail outline</mat-icon></button>
+    </span>
+  </mat-sidenav-container>
+</div>

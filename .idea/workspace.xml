@@ -2,54 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/MarinBioPic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/MarinBioPic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/MarinBioPicSmaller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/VinceBloise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/VinceBloiseTransparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent/appComponent.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent/appComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent/appComponent.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/AISSoccer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/FieldGoal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/HunterJumper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Inter-AcTrackHurdlesFromPaper-2012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Marin-100MHurdlesAtInterAcChamps2012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAISSoccer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAtMDC.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinBioPic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinDivingForResume.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinHorseJumping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MountainBiking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/OriginalLongboards.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Paddleboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Skiing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Snowboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside100MeterHurdles.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/TrackForResume.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personalInterests.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/e2e/src/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/AISSoccer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/AISSoccer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/AISSoccer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/FieldGoal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/FieldGoal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/FieldGoal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/HunterJumper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/HunterJumper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/HunterJumper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Inter-AcTrackHurdlesFromPaper-2012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Inter-AcTrackHurdlesFromPaper-2012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Inter-AcTrackHurdlesFromPaper-2012.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Longboarding.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Longboarding.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Longboarding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Marin-100MHurdlesAtInterAcChamps2012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Marin-100MHurdlesAtInterAcChamps2012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Marin-100MHurdlesAtInterAcChamps2012.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAISSoccer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAISSoccer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinAISSoccer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAtMDC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinAtMDC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinAtMDC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinBioPic2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinBioPic2.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinBioPic2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinDivingForResume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinDivingForResume.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinDivingForResume.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinHorseJumping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MarinHorseJumping.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinHorseJumping.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MountainBiking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/MountainBiking.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MountainBiking.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/OriginalLongboards.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/OriginalLongboards.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/OriginalLongboards.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Paddleboarding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Paddleboarding.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Paddleboarding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Skiing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Skiing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Skiing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Snowboarding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Snowboarding.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Snowboarding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside100MeterHurdles.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside100MeterHurdles.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Springside100MeterHurdles.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Springside300MeterHurdles.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/Springside300MeterHurdles.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/Springside300MeterHurdles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/TrackForResume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/TrackForResume.png" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/TrackForResume.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personalInterests.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +65,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -69,11 +74,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="345">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#266#322#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +106,10 @@
       <find>Dialog</find>
       <find>transparentProfilePic</find>
       <find>mdCardSmallDialogImg</find>
+      <find>MyDialog</find>
+      <find>MatDialog</find>
       <find>personalInterests</find>
+      <find>MatDialogRef</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,7 +133,6 @@
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app/app.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.component.html" />
@@ -139,9 +150,10 @@
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/environments/environment.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/package.json" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.scss" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -212,7 +224,7 @@
               <item name="mbloiseResume3Ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="personal-interests" type="462c0819:PsiDirectoryNode" />
+              <item name="personalInterests.component" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,9 +240,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component" />
-      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -266,18 +278,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22730000" />
+    <option name="totallyTimeSpent" value="23762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291714" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291714" />
       <window_info anchor="bottom" id="TypeScript" weight="0.3291714" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526998" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -317,14 +330,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/public/chalice-javascript-sdk/lib/axios/dist/axios.standalone.js" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/public/apigClient.js" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/public/index.html" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/test.js" />
@@ -406,16 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -470,24 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#266#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -500,13 +477,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,20 +582,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.ts">
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personalInterests.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personalInterests.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#47#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="101" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#266#322#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

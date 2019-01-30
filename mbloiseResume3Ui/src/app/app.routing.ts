@@ -1,7 +1,7 @@
 import { Routes, RouterModule } from '@angular/router';
 import { YoMoFoComponent } from './yo-mo-fo/yo-mo-fo.component';
 import { HomeComponent } from './home/home.component';
-import { PersonalInterestsComponent } from './personal-interests/personal-interests.component';
+import { PersonalInterestsComponent } from './personalInterests.component/personalInterests.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
