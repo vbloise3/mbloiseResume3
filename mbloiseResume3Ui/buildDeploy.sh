@@ -12,4 +12,4 @@ cd ~/mbloiseResume3/mbloiseResume3Ui/
 #build the site
 ng build --prod --aot
 #upload files
-aws s3 cp ./dist/mbloiseResume3Ui s3://mbloise-resume --recursive --acl public-read
+aws s3 cp ./dist/mbloiseResume3Ui s3://marinbloise.com --recursive --acl public-read
