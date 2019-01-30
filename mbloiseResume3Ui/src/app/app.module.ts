@@ -16,9 +16,11 @@ import {Material2AppAppComponent, DialogContent} from './app.component/app.compo
 import {PersonalInterestsComponent, DialogContent2} from './personalInterests.component/personalInterests.component';
 import { YoMoFoComponent } from './yo-mo-fo/yo-mo-fo.component';
 import { AppComponent } from './appComponent/appComponent';
+import { AppComponent1 } from './app.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { ReactiveFormsModule} from '@angular/forms';
 import { routing } from './app.routing';
+
 
 // Define the routes
 const appRoutes: Routes = [
@@ -40,6 +42,7 @@ const appRoutes: Routes = [
 
 @NgModule({
   declarations: [
+    AppComponent1,
     Material2AppAppComponent,
     DialogContent,
     DialogContent2,
