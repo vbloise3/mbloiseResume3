@@ -264,3 +264,16 @@ ul {
 #left{float:left;width:100px;}
 #right{float:right;width:100px;}
 #center{margin:0 auto;width:100px;}
+
+/* stuff for dialog */
+.App-buttons {
+  float: right;
+  position: relative;
+  top: -90px;
+}
+
+.App-buttons-mobile {
+  float: right;
+  position: absolute;
+  top: 20px;
+}

@@ -108,7 +108,7 @@ export class Material2AppAppComponent {
 
 @Component({
   template: `
-      
+    
           <mat-toolbar color="primary" style="height: 3.15em; width: 111%; margin-left: -1em; margin-top: -1em;">            
               <img class="mdCardSmallDialogImg transparentProfilePic">
               <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>            
@@ -123,9 +123,20 @@ export class Material2AppAppComponent {
           <div class="centerIt2">
               <button mat-raised-button (click)="dialogRef.close('done')">Done</button>
           </div>
-        
+    
   `,
 })
 export class DialogContent {
-  constructor(@Optional() public dialogRef: MatDialogRef<DialogContent>) { }
+  deviceWidthCss = '';
+  componentDidMount() {
+    // set mobile layout
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+      this.deviceWidthCss = "App-name-mobile";
+    } else {
+      this.deviceWidthCss = "App-name";
+    }
+  }
+  constructor(@Optional() public dialogRef: MatDialogRef<DialogContent>) {
+    this.componentDidMount();
+  }
 }
