@@ -3,9 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/enc-base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/hmac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/hmac-sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/apiGatewayClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/sigV4Client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/simpleHttpClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/axios/dist/axios.standalone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/url-template/url-template.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
@@ -64,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -98,6 +109,7 @@
       <find>MatDialogRef</find>
       <find>_router</find>
       <find>_rou</find>
+      <find>axio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,7 +126,6 @@
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/test.js" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/test.js" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/tsconfig.app.json" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/data.service.ts" />
         <option value="$PROJECT_DIR$/notes.txt" />
@@ -141,12 +152,13 @@
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent1/appComponent1.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent/appComponent.html" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/index.html" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" />
       </list>
     </option>
   </component>
@@ -281,7 +293,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47908000" />
+    <option name="totallyTimeSpent" value="49030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
@@ -291,9 +303,9 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3291714" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3280363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3280363" />
       <window_info anchor="bottom" id="TypeScript" order="12" weight="0.3291714" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25809935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809935" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -333,13 +345,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/test.js" />
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/test-component/test-component.component.ts" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -502,27 +508,6 @@
     <entry file="file://$PROJECT_DIR$/.chalice/config.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="44" column="27" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/tsconfig.app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -555,13 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="49" selection-start-line="10" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -607,6 +585,34 @@
           <folding>
             <element signature="n#style#0;n#button#0;n#span#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
