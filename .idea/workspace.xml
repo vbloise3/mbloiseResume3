@@ -3,20 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/enc-base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/components/hmac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/hmac-sha256.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/CryptoJS/rollups/sha256.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/apiGatewayClient.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/sigV4Client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/simpleHttpClient.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/apiGatewayCore/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/axios/dist/axios.standalone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/lib/url-template/url-template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,20 +27,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
+            <state relative-caret-position="74">
+              <caret line="111" column="102" selection-start-line="111" selection-start-column="102" selection-end-line="111" selection-end-column="102" />
+              <folding>
+                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss">
+      <file leaf-file-name="personalInterests.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="274" column="19" selection-start-line="274" selection-start-column="1" selection-end-line="274" selection-end-column="19" />
+            <state relative-caret-position="123">
+              <caret line="99" column="100" selection-start-line="99" selection-start-column="100" selection-end-line="99" selection-end-column="100" />
+              <folding>
+                <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,9 +57,9 @@
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
-              <caret line="197" column="79" selection-start-line="197" selection-start-column="79" selection-end-line="197" selection-end-column="79" />
+              <caret line="198" column="45" selection-start-line="198" selection-start-column="45" selection-end-line="198" selection-end-column="45" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#span#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,16 +69,16 @@
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -110,6 +109,9 @@
       <find>_router</find>
       <find>_rou</find>
       <find>axio</find>
+      <find>ngIf</find>
+      <find>m2app-dark</find>
+      <find>iconBottom</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,11 +156,13 @@
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/appComponent/appComponent.html" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/index.html" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" />
-        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh" />
         <option value="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" />
+        <option value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" />
       </list>
     </option>
   </component>
@@ -235,6 +239,14 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mbloiseResume3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mbloiseResume3" type="462c0819:PsiDirectoryNode" />
+              <item name="mbloiseResume3Ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="personalInterests.component" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,7 +305,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49030000" />
+    <option name="totallyTimeSpent" value="53003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1894" height="978" extended-state="0" />
@@ -344,7 +356,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/test.js" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/chalice-javascript-sdk/apigClient.js" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/test-component/test-component.component.ts" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/yo-mo-fo/yo-mo-fo.component.html">
@@ -422,13 +433,6 @@
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests/personal-interests.component.ts" />
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -560,31 +564,7 @@
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="274" column="19" selection-start-line="274" selection-start-column="1" selection-end-line="274" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="197" column="79" selection-start-line="197" selection-start-column="79" selection-end-line="197" selection-end-column="79" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#span#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -612,7 +592,53 @@
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/buildDeploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="330" column="1" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="278" column="1" lean-forward="true" selection-start-line="267" selection-end-line="278" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="198" column="45" selection-start-line="198" selection-start-column="45" selection-end-line="198" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="99" column="100" selection-start-line="99" selection-start-column="100" selection-end-line="99" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="111" column="102" selection-start-line="111" selection-start-column="102" selection-end-line="111" selection-end-column="102" />
+          <folding>
+            <element signature="n#style#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#mat-toolbar#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
