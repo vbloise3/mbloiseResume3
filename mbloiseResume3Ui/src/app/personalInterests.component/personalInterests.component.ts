@@ -123,5 +123,7 @@ export class DialogContent2 {
       this.deviceWidthCss = "App-name";
     }
   }
-    constructor(@Optional() public dialogRef: MatDialogRef<DialogContent2>) { }
+    constructor(@Optional() public dialogRef: MatDialogRef<DialogContent2>) {
+     this.componentDidMount();
+    }
 }
