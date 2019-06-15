@@ -1,5 +1,6 @@
 import {Component, Optional, ViewEncapsulation, OnInit} from '@angular/core';
-import {MatDialog, MatDialogRef, MatSnackBar} from '@angular/material';
+import { MatDialog, MatDialogRef } from '@angular/material/dialog';
+import { MatSnackBar } from '@angular/material/snack-bar';
 import { HttpClient } from '@angular/common/http';
 // import { Observable} from "rxjs/Observable";
 import { Observable} from 'rxjs';

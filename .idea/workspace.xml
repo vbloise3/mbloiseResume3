@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +30,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            <state relative-caret-position="615">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -229,16 +234,15 @@
       <workItem from="1553040707394" duration="558000" />
       <workItem from="1553167849993" duration="590000" />
       <workItem from="1553810244758" duration="1236000" />
-      <workItem from="1558570059987" duration="2714000" />
+      <workItem from="1558570059987" duration="4572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61844000" />
+    <option name="totallyTimeSpent" value="63702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49306625" visible="true" weight="0.11661342" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        <state relative-caret-position="615">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
     </entry>

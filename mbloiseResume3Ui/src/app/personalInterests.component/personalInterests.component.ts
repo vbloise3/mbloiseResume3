@@ -3,7 +3,10 @@
  */
 
 import {Component, Optional, ViewEncapsulation} from '@angular/core';
-import {MatDialog, MatDialogRef, MatSnackBar, MatSidenav, MatIcon} from '@angular/material';
+import { MatDialog, MatDialogRef } from '@angular/material/dialog';
+import { MatIcon } from '@angular/material/icon';
+import { MatSidenav } from '@angular/material/sidenav';
+import { MatSnackBar } from '@angular/material/snack-bar';
 import { HttpClient } from '@angular/common/http';
 // import 'rxjs/add/operator/map';
 // import 'rxjs/add/operator/catch';
