@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -72,11 +71,13 @@
       <find>7.2.4</find>
       <find>8.0.1</find>
       <find>debug</find>
+      <find>8.2.3</find>
     </findStrings>
     <replaceStrings>
       <replace>7.2.4</replace>
       <replace>8.0.1</replace>
       <replace>8.2.3</replace>
+      <replace>8.2.5</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -156,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,16 +242,19 @@
       <workItem from="1566679332077" duration="1531000" />
       <workItem from="1566681011533" duration="5000" />
       <workItem from="1566682002993" duration="209000" />
+      <workItem from="1566682461430" duration="84000" />
+      <workItem from="1568074632461" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66710000" />
+    <option name="totallyTimeSpent" value="66820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1907" height="983" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49183673" visible="true" weight="0.12386059" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49183673" visible="true" weight="0.12600537" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -565,8 +569,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mbloiseResume3Ui/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
