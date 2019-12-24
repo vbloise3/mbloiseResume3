@@ -9,7 +9,7 @@ export class DataService {
   constructor(private http: HttpClient) { }
 
   getRootInfo() {
-    return this.http.get('https://k70sqt7lze.execute-api.us-east-2.amazonaws.com/api')
+    return this.http.get('https://dpxloknd56.execute-api.us-east-1.amazonaws.com/api')
   }
 
   getRootInfoWithParams(email: string, password: string) {
@@ -19,7 +19,7 @@ export class DataService {
     // Begin assigning parameters
     params = params.append('email', email);
     params = params.append('password', password);
-    return this.http.get('https://k70sqt7lze.execute-api.us-east-2.amazonaws.com/api/email/' + params.get('email') + '/password/' + params.get('password'), { params: params });
+    return this.http.get('https://dpxloknd56.execute-api.us-east-1.amazonaws.com/api/email/' + params.get('email') + '/password/' + params.get('password'), { params: params });
   }
 
 }
