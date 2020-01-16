@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.chalice/deployed/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.chalice/deployed/dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/data.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="RSettings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/mbloiseResume3Ui/node_modules/typescript/lib" />
@@ -132,7 +136,8 @@
       <workItem from="1566682461430" duration="84000" />
       <workItem from="1568074632461" duration="236000" />
       <workItem from="1573181106163" duration="194000" />
-      <workItem from="1577191018633" duration="94000" />
+      <workItem from="1577191018633" duration="575000" />
+      <workItem from="1578346841344" duration="291000" />
     </task>
     <servers />
   </component>
