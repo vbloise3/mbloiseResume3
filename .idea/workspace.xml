@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +51,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1907" />
-    <option name="height" value="983" />
   </component>
   <component name="ProjectId" id="1QfMQvBx0N6Nw79pXGd6l025AVA" />
   <component name="ProjectLevelVcsManager">
@@ -138,7 +134,28 @@
       <workItem from="1573181106163" duration="194000" />
       <workItem from="1577191018633" duration="575000" />
       <workItem from="1578346841344" duration="291000" />
-      <workItem from="1579045366139" duration="1563000" />
+      <workItem from="1579045366139" duration="1597000" />
+      <workItem from="1579972297931" duration="672000" />
+      <workItem from="1580691632590" duration="185000" />
+      <workItem from="1580926800612" duration="431000" />
+      <workItem from="1581651991609" duration="163000" />
+      <workItem from="1583288147361" duration="234000" />
+      <workItem from="1583672772697" duration="228000" />
+      <workItem from="1584892228192" duration="659000" />
+      <workItem from="1585838283270" duration="472000" />
+      <workItem from="1585922088211" duration="408000" />
+      <workItem from="1586436596945" duration="531000" />
+      <workItem from="1587389291891" duration="266000" />
+      <workItem from="1588524378218" duration="234000" />
+      <workItem from="1588525107730" duration="169000" />
+      <workItem from="1589804254441" duration="204000" />
+      <workItem from="1590696983411" duration="254000" />
+      <workItem from="1590760678966" duration="268000" />
+      <workItem from="1591107640830" duration="416000" />
+      <workItem from="1592332410598" duration="736000" />
+      <workItem from="1593537323419" duration="308000" />
+      <workItem from="1594760636615" duration="8000" />
+      <workItem from="1639331984371" duration="31000" />
     </task>
     <servers />
   </component>
