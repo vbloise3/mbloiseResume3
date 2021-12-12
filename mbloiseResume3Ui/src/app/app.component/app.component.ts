@@ -109,22 +109,22 @@ export class Material2AppAppComponent {
 
 @Component({
   template: `
-    
-          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '111%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">            
+
+          <mat-toolbar color="primary" [ngStyle]="{'width':deviceWidthCss === 'App-name-mobile' ? '116%' : '111%' }" style="height: 3.15em; margin-left: -1em; margin-top: -1em;">
               <img class="mdCardSmallDialogImg transparentProfilePic">
-              <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>            
+              <span id="center" class="textBottom largeFont" style="width: 50%; margin-left: -1em;">&nbsp;My Contact Info</span>
           </mat-toolbar>
-     
+
           <table>
               <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
-                <td><a href="mailto:meb339@scarletmail.rutgers.edu?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>meb339@scarletmail.rutgers.edu</a></td>
+                <td><a href="mailto:mbloise3@gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>mbloise3@gmail.com</a></td>
                 <td><a href="tel:610-308-1130" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>610-308-1130</a></td>
               </tr>
           </table>
           <div class="centerIt2">
               <button mat-raised-button (click)="dialogRef.close('done')">Done</button>
           </div>
-    
+
   `,
 })
 export class DialogContent {
