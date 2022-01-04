@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,37 +18,6 @@
         <option value="TypeScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>types</find>
-      <find>onInit</find>
-      <find>title</find>
-      <find>Reactive</find>
-      <find>Dialog</find>
-      <find>transparentProfilePic</find>
-      <find>mdCardSmallDialogImg</find>
-      <find>MyDialog</find>
-      <find>MatDialog</find>
-      <find>personalInterests</find>
-      <find>MatDialogRef</find>
-      <find>_router</find>
-      <find>_rou</find>
-      <find>axio</find>
-      <find>7.1.0</find>
-      <find>7.2.4</find>
-      <find>8.0.1</find>
-      <find>debug</find>
-      <find>8.2.3</find>
-      <find>8.2.5</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>7.2.4</replace>
-      <replace>8.0.1</replace>
-      <replace>8.2.3</replace>
-      <replace>8.2.5</replace>
-      <replace>8.2.13</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,7 +125,8 @@
       <workItem from="1592332410598" duration="736000" />
       <workItem from="1593537323419" duration="308000" />
       <workItem from="1594760636615" duration="8000" />
-      <workItem from="1639331984371" duration="31000" />
+      <workItem from="1639331984371" duration="4625000" />
+      <workItem from="1641316150142" duration="1412000" />
     </task>
     <servers />
   </component>
