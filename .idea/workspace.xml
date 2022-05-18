@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +126,12 @@
       <workItem from="1593537323419" duration="308000" />
       <workItem from="1594760636615" duration="8000" />
       <workItem from="1639331984371" duration="4625000" />
-      <workItem from="1641316150142" duration="2346000" />
+      <workItem from="1641316150142" duration="3438000" />
+      <workItem from="1643070629304" duration="1186000" />
+      <workItem from="1646172429327" duration="595000" />
+      <workItem from="1646407350970" duration="585000" />
+      <workItem from="1648822323190" duration="575000" />
+      <workItem from="1649864295580" duration="1227000" />
     </task>
     <servers />
   </component>
