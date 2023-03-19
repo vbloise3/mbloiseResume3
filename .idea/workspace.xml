@@ -5,6 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +136,21 @@
       <workItem from="1646407350970" duration="585000" />
       <workItem from="1648822323190" duration="575000" />
       <workItem from="1649864295580" duration="1227000" />
+      <workItem from="1652834614276" duration="708000" />
+      <workItem from="1653047746013" duration="597000" />
+      <workItem from="1656946649221" duration="586000" />
+      <workItem from="1656949446115" duration="580000" />
+      <workItem from="1656962379508" duration="598000" />
+      <workItem from="1657481777410" duration="595000" />
+      <workItem from="1658331591541" duration="566000" />
+      <workItem from="1658924442738" duration="581000" />
+      <workItem from="1662757357445" duration="587000" />
+      <workItem from="1669405723368" duration="591000" />
+      <workItem from="1670981490044" duration="595000" />
+      <workItem from="1671564606132" duration="599000" />
+      <workItem from="1674227775219" duration="591000" />
+      <workItem from="1678643402306" duration="58000" />
+      <workItem from="1678643963459" duration="4878000" />
     </task>
     <servers />
   </component>
