@@ -3,27 +3,29 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from "./appComponent/appComponent";
-import { AppComponent1 } from './app.component';
-import { TestComponent } from "./test/test.component";
-import { HomeComponent } from "./home/home.component";
-import { PersonalInterestsComponent, DialogContent2 } from "./personalInterests.component/personalInterests.component";
-import { PageNotFoundComponent } from "./page-not-found/page-not-found.component";
-import { Material2AppAppComponent, DialogContent } from "./app.component/app.component";
-import { YoMoFoComponent } from "./yo-mo-fo/yo-mo-fo.component";
+//import { AppComponent } from './app.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { TestComponent } from './test/test.component';
+import { HomeComponent } from './home/home.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 import { MatDialogModule } from '@angular/material/dialog';
-import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatIconModule } from '@angular/material/icon';
-import { MatSidenavModule  } from '@angular/material/sidenav';
-import { MatToolbarModule } from '@angular/material/toolbar'
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import {Material2AppAppComponent, DialogContent} from './app.component/app.component';
+import {PersonalInterestsComponent, DialogContent2} from './personalInterests.component/personalInterests.component';
+import { YoMoFoComponent } from './yo-mo-fo/yo-mo-fo.component';
+import { AppComponent } from './appComponent/appComponent';
+import { AppComponent1 } from './app.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { ReactiveFormsModule} from '@angular/forms';
 import { routing } from './app.routing';
+
 
 // Define the routes
 const appRoutes: Routes = [
@@ -31,29 +33,9 @@ const appRoutes: Routes = [
     path: 'tester',
     component: TestComponent
   },
-  /*{
-    path: 'c2padmin',
-    component: C2pDynamoDbComponent
-  },
-  {
-    path: 'c2ppractice',
-    component: C2pQuestionComponent
-  },
-  {
-    path: 'ca2practice',
-    component: Ca2QuestionComponent
-  },*/
   {
     path: '',
     component: HomeComponent
-  },
-  {
-    path: '1',
-    component: HomeComponent
-  },
-  {
-    path: '2',
-    component: PersonalInterestsComponent
   },
   {
     path: '',
@@ -91,9 +73,12 @@ const appRoutes: Routes = [
     AppRoutingModule,
     HttpClientModule,
     BrowserAnimationsModule,
-    RouterModule.forRoot(appRoutes, { enableTracing: false } // <-- debugging purposes only
+    RouterModule.forRoot(
+      appRoutes,
+      { enableTracing: false } // <-- debugging purposes only
     )
   ],
+  //entryComponents: [DialogContent, DialogContent2],
   providers: [],
   bootstrap: [AppComponent]
 })
