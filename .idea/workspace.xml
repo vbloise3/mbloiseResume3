@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06e5efa-df2e-4154-bac8-6998248abc32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/MarinProfilePic.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/MarinProfilePic.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component/app.component2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component/personalInterests.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,15 +53,17 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/mbloiseResume3Ui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component" />
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src" />
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui" />
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personalInterests.component" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/personal-interests" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/app/app.component" />
-      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src" />
-      <recent name="$PROJECT_DIR$/mbloiseResume3Ui" />
       <recent name="$PROJECT_DIR$/mbloiseResume3Ui/src/public" />
     </key>
   </component>
@@ -146,7 +154,12 @@
       <workItem from="1671564606132" duration="599000" />
       <workItem from="1674227775219" duration="591000" />
       <workItem from="1678643402306" duration="58000" />
-      <workItem from="1678643963459" duration="5847000" />
+      <workItem from="1678643963459" duration="6658000" />
+      <workItem from="1680386644327" duration="603000" />
+      <workItem from="1687540407871" duration="3379000" />
+      <workItem from="1689532450640" duration="592000" />
+      <workItem from="1691153941734" duration="596000" />
+      <workItem from="1693353518688" duration="3384000" />
     </task>
     <servers />
   </component>
@@ -154,14 +167,14 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.d.ts" />
-        <option value="$USER_HOME$/hello-cdk/bin/hello-cdk.js" />
-        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.d.ts" />
-        <option value="$USER_HOME$/hello-cdk/lib/hello-cdk-stack.js" />
-        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.d.ts" />
-        <option value="$USER_HOME$/cdk-workshop/bin/cdk-workshop.js" />
-        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.d.ts" />
-        <option value="$USER_HOME$/cdk-workshop/lib/cdk-workshop-stack.js" />
+        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.d.ts" />
+        <option value="$PROJECT_DIR$/../hello-cdk/bin/hello-cdk.js" />
+        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.d.ts" />
+        <option value="$PROJECT_DIR$/../hello-cdk/lib/hello-cdk-stack.js" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.d.ts" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/bin/cdk-workshop.js" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.d.ts" />
+        <option value="$PROJECT_DIR$/../cdk-workshop/lib/cdk-workshop-stack.js" />
       </list>
     </option>
   </component>
