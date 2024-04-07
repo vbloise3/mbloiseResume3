@@ -21,7 +21,7 @@ export class Material2AppAppComponent {
   rootStuff: Object;
   title = 'mbloiseResume3Ui';
   lastDialogResult: string;
-  myEmail: string = 'mbloise3@gmail.com';
+  myEmail: string = 'mbloise3&#64;gmail.com';
 
   products: Observable<Array<string>>;
   errorMessage: string;
@@ -117,7 +117,7 @@ export class Material2AppAppComponent {
 
           <table>
               <tr [class.App-buttons-mobile]='deviceWidthCss == "App-name-mobile"'>
-                <td><a href="mailto:mbloise3@gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>mbloise3@gmail.com</a></td>
+                <td><a href="mailto:mbloise3&#64;gmail.com?Subject=Resume" style="color: blue;"><i class="material-icons md-18 iconBottom">email</i>mbloise3&#64;gmail.com</a></td>
                 <td><a href="tel:610-308-1130" style="color: blue"><i class="material-icons md-18 iconBottom">phone_iphone</i>610-308-1130</a></td>
               </tr>
           </table>
